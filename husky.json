@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "datetime": 1789182028,
+    "filename": "lineage-24.0-2026-09-12-UNOFFICIAL-husky-signed.zip",
+    "id": "9f469bb60c1c5f0834863a099328bd93450ed59a046660dd8577a7911e9106d5",
+    "romtype": "unofficial",
+    "type": "UNOFFICIAL",
+    "size": 1908420365,
+    "url": "https://github.com/rhythmcreative/lineageos-husky-ota/releases/download/husky-2026-09-12/lineage-24.0-2026-09-12-UNOFFICIAL-husky-signed.zip",
+    "version": "24.0",
+    "files": [
+      {
+        "filename": "lineage-24.0-2026-09-12-UNOFFICIAL-husky-signed.zip",
+        "sha256": "9f469bb60c1c5f0834863a099328bd93450ed59a046660dd8577a7911e9106d5",
+        "size": 1908420365,
+        "url": "https://github.com/rhythmcreative/lineageos-husky-ota/releases/download/husky-2026-09-12/lineage-24.0-2026-09-12-UNOFFICIAL-husky-signed.zip",
+        "os_sdk_level": 37,
+        "os_patch_level": "2026-09-01"
+      }
+    ]
+  }
+]
