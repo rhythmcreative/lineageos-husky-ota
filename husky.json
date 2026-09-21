@@ -1,19 +1,19 @@
 [
   {
-    "datetime": 1789990429,
-    "filename": "lineage-24.0-2026092102-husky-signed.zip",
-    "id": "aaf4abfe0143c241b32dd7259fdf764c490230b4610f6edf3668db1359f0610e",
+    "datetime": 1789998293,
+    "filename": "lineage-24.0-2026092103-husky-signed.zip",
+    "id": "b1f39e00d029c549bf863e4458e75460de148181f6c3caf6de8919c1312ea293",
     "romtype": "unofficial",
     "type": "UNOFFICIAL",
-    "size": 1911299181,
-    "url": "https://github.com/rhythmcreative/lineageos-husky-ota/releases/download/2026092102/lineage-24.0-2026092102-husky-signed.zip",
+    "size": 1911292314,
+    "url": "https://github.com/rhythmcreative/lineageos-husky-ota/releases/download/2026092103/lineage-24.0-2026092103-husky-signed.zip",
     "version": "24.0",
     "files": [
       {
-        "filename": "lineage-24.0-2026092102-husky-signed.zip",
-        "sha256": "aaf4abfe0143c241b32dd7259fdf764c490230b4610f6edf3668db1359f0610e",
-        "size": 1911299181,
-        "url": "https://github.com/rhythmcreative/lineageos-husky-ota/releases/download/2026092102/lineage-24.0-2026092102-husky-signed.zip",
+        "filename": "lineage-24.0-2026092103-husky-signed.zip",
+        "sha256": "b1f39e00d029c549bf863e4458e75460de148181f6c3caf6de8919c1312ea293",
+        "size": 1911292314,
+        "url": "https://github.com/rhythmcreative/lineageos-husky-ota/releases/download/2026092103/lineage-24.0-2026092103-husky-signed.zip",
         "os_sdk_level": 37,
         "os_patch_level": "2026-09-01"
       }
